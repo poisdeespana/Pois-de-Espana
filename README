@@ -6,7 +6,8 @@ Podeis colaborar en añadir vuestros propios lugares, si veis que falta algo.
 Si vais a colaborar, por favor , respetad las siguientes reglas:
 
 -> Si lo que vais a agregar es un centro comercial, el nombre ha de seguir la siguiente estructura: "COMERCIO" "CIUDAD"   Por ejemplo, Eroski Segovia
--> Si lo que vais a agregar es un conesionario, el nombre ha de seguir la siguiente estructura: "MARCA" "NOMBRE CONCESIONARIO"   Por ejemplo, Ford Pepito
-
+-> Si lo que vais a agregar es un concesionario, el nombre ha de seguir la siguiente estructura: "MARCA" "NOMBRE CONCESIONARIO"   Por ejemplo, Ford Pepito
+-> Si lo que vais a agregar es una gasolinera, el nombre ha de seguir la siguiente estructura: "EMPRESA" "CIUDAD" . Por ejemplo, Repsol Valencia 
+En el caso de estar en una carretera, la estructura es "EMPRESA" "CARRETERA". Por ejemplo, Repsol A-7
 
 ¡Gracias!
